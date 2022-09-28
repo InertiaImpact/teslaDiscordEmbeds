@@ -1,0 +1,48 @@
+{
+    "embeds": [
+        {
+            "title": "FSD Beta Eligibility ",
+            "description": "This was last updated 9/22/2022\n\nTo accepted into the beta at this time:",
+            "color": 15879747,
+            "timestamp": "2022-09-22T05:33:13.433Z",
+            "url": "",
+            "author": {
+                "name": "Optimus Bot",
+                "url": "https://discord.gg/tesla",
+                "icon_url": "https://cdn.discordapp.com/avatars/998946002528645230/8f5c0427db613c7dad1e12cc28baf5a8.png"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/1k9dLAA.png"
+            },
+            "image": {
+                "url": ""
+            },
+            "footer": {
+                "text": "Check @elonmusk's tweets for verification of info here....",
+                "icon_url": "https://i.imgur.com/5WRogjB.png"
+            },
+            "fields": [
+                {
+                    "name": "Software version",
+                    "value": "***You need to be on the 2022.20.xx branch.***\nIf you are on a newer version like, 2022.24 or 2022.28, you will need to wait for the beta branch to catch up to them before they will be accepted.(sorry)\n\nNO, there is not a way to downgrade. It just wouldn't work.\n\nOh, you need FSD, purchased in full or subscribed, for it to work.",
+                    "inline": false
+                },
+                {
+                    "name": "Safety Score",
+                    "value": "You need 80+ for your safety score **AND** atleast 100 miles on AP",
+                    "inline": false
+                },
+                {
+                    "name": "You must be in the US or Canada",
+                    "value": ":flag_us: :flag_ca:",
+                    "inline": false
+                },
+                {
+                    "name": "Hardware",
+                    "value": "You need the Full-Self Driving Computer (AKA HW3) - Free upgrade w/ FSD package, or $1,000 for FSD Subscribers\n\nIf your legacy S/X was made before August 27th, 2017, you'll need a camera upgrade which will be available sometime in ~Oct.",
+                    "inline": true
+                }
+            ]
+        }
+    ]
+}
