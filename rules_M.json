@@ -1,0 +1,50 @@
+{
+    "embeds": [
+        {
+            "title": "Welcome to the Server! ",
+            "description": "Below are the rules of the server that you have to accept in order to see the rest of the server. \n══════════════════════════════════════\n1. Harmful/inappropriate content has no place in this server or the DMs of our users. Sharing content deemed harmful results in an immediate and permanent ban. \n\n2. Make sure you're responding in the correct channel. If there's a channel that you feel is missing, then let us know in feature-requests\n\n3. Remember to treat all members with respect.\n\n4. No political or religious topics. However, we do allow talks about any EV or Solar bills/reform \n\n5. Advertising content and spamming in this server or DMs is prohibited and will result in a ban.\n\n6. No DM-ing our Tesla Employees unless they have the \"Ok to DM role\". Also, just because they work for Tesla does not mean they have any knowledge or interaction with the car or software. Even if they did, it is most likely under NDA and unable to be shared with you. That includes hints for future updates or releases.\n\n7. No inappropriate profiles are allowed along with generic usernames like Elon Musk or similar.\n\n8. We typically follow a 3 strike procedure where you get 3 warnings/mutes followed by a ban if warranted. Depending on circumstances, steps might be skipped.\n\n9. Finally not all situations are crystal clear and may require judgment calls by the moderator team. Discretion may be used for further analysis and review.\n\n10. If you ever have a issue with a moderator or feel that they are abusing their power, free to reach out to anyone else with the Moderator role to discuss",
+            "color": 1048320,
+            "timestamp": "2022-10-01T17:00:00.000Z",
+            "url": "",
+            "author": {
+                "name": "",
+                "url": "https://discord.gg/tesla",
+                "icon_url": ""
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/DJPA7LS.png"
+            },
+            "image": {
+                "url": ""
+            },
+            "footer": {
+                "text": "Last updated ",
+                "icon_url": ""
+            },
+            "fields": [
+                {
+                    "name": "══════════════════════════════════════",
+                    "value": " Failure to follow these rules will result in moderative action, and may result in a temporary mute or ban from the community entirely. Some violations may also be reported to Discord's Trust and Safety team, which may result in account suspension and/or termination.\n",
+                    "inline": false
+                }
+            ]
+        },
+        {
+            "title": "Need Help?",
+            "description": "You can reach the moderators by reporting a message or user. Or by directly tagging a mod or the mod role in a channel.\n\nReport spam, trolls, or anything that shouldn't be here and the mods will look into it. \nThis also includes if you receive unsolicited DMs from users on here.",
+            "color": 16711680,
+            "fields": [
+                {
+                    "name": "Report a message or user",
+                    "value": "Use the context menu [•••] -> Report Message (preferred method)\n\nType  `/report` in the chat and fill in the prompted sections",
+                    "inline": false
+                }
+            ]
+        },
+        {
+            "title": "Resources",
+            "color": 1966335,
+            "description": "<#998944908498968606> - Grab roles to get access to role related restricted channels\n<#288215570996920320>  - General Tesla related chat\n<#1> - FSD and FSD Beta discussion\n<#1> - New order/EDD/Delivery questions\n<#1> - off-topic discussion\n"
+        }
+    ]
+}
