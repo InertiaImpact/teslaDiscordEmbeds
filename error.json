@@ -1,0 +1,33 @@
+{
+    "embeds": [
+        {
+            "title": "Whoops! Your embed was not found!",
+            "description": "lol",
+            "color": 4321431,
+            "timestamp": "2022-10-07T20:11:18.584Z",
+            "url": "https://discord.com",
+            "author": {
+                "name": "",
+                "url": "https://discord.com",
+                "icon_url": ""
+            },
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            "image": {
+                "url": ""
+            },
+            "footer": {
+                "text": "Footer text",
+                "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            "fields": [
+                {
+                    "name": "404",
+                    "value": "Not Found!",
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}
